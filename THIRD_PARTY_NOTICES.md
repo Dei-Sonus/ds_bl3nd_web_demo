@@ -23,12 +23,12 @@ Font Awesome Free icons are licensed under
 
 JUCE Framework modules are dual-licensed under
 [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html) and the
-[commercial JUCE licence](https://juce.com/legal/juce-8-licence/); see
+[commercial JUCE licence](https://juce.com/legal/juce-9-licence/); see
 `plugin/JUCE/LICENSE.md`.
 
 ## Browser demo
 
-The browser demo (`web-demo/`, built into `BlenderWebDemo.zip`) additionally
+The browser demo (`web-demo/`, built into `BL3NDWebDemo.zip`) additionally
 bundles [PFFFT](https://bitbucket.org/jpommier/pffft) as its FFT
 (through the browser host `ds_host_wasm`, its `third_party/pffft`), under the
 FFTPACK licence below, and
